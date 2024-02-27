@@ -1,0 +1,2 @@
+# HuntCon
+Bug Bounty assets
